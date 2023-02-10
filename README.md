@@ -9,4 +9,4 @@ Part of the 1st homework for the Computer Graphics and Game Technology course at
 
 [Click to open in browser.](https://ia6382.github.io/graphics-pipeline/)
 
-![teapot](teapot.JPG)
+![teapot](teapot.PNG)
