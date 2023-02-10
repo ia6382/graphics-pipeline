@@ -7,5 +7,6 @@ Rendered model is the Utah teapot, saved as the model.obj file.
 
 Part of the 1st homework for the Computer Graphics and Game Technology course at the University of Ljubljana, Faculty of Computer and Information Science in 2017.
 
-
 [Click to open in browser.](https://ia6382.github.io/graphics-pipeline/)
+
+![teapot](teapot.JPG)
