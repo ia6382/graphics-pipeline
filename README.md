@@ -1,6 +1,6 @@
 # graphics-pipeline
 
-A simple web application made with Javascript and WebGL, that implements a graphics pipeline to render a .obj wireframe model. 
+A simple web application made with Javascript and WebGL that implements a graphics pipeline to render a .obj wireframe model. 
 A computer graphics pipeline is a conceptual model that describes the steps needed to render a 3D scene to a 2D screen. Our implementation focuses on the geometry part by implementing the needed (perspective) projection, camera and model transformation matrices. It allows the user to transform the model using translation, rotation and scaling. 
 
 Rendered model is the Utah teapot, saved as the model.obj file. 
